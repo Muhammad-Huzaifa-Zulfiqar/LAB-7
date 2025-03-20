@@ -3,3 +3,8 @@ Console.Write`Line("AC");
 Console.Write`Line("Table");
 Console.Write`Line("Chairs");
 Console.Write`Line("Doors");
+
+
+
+
+Console.Write`Line("Walls");
